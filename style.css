@@ -1,0 +1,40 @@
+#first{
+background-color: #eeeeee;
+text-align: center;
+}
+
+h1{
+padding-top: 22px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+font-family: Calibri;
+}
+
+img{
+width: 55em;
+padding:10px 0px;
+}
+
+figure{
+background-color:#ffffff;
+margin:0px 12px;
+padding-bottom: 10px;
+} 
+
+ul {
+display: inline-block;
+}
+
+li{
+margin:0em 25em;
+padding-bottom: 20px;
+text-align: justify;
+font-family:Calibri;
+}
+
+p{
+font-weight:bolder;
+padding-top: 10px;
+}
